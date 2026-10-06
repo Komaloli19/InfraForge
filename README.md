@@ -69,3 +69,5 @@ The lab is implemented using VMware Workstation and Red Hat Enterprise Linux 9.4
                            |
                            ↓
                     Troubleshooting
+                           ↓
+                       Automation
