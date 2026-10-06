@@ -48,3 +48,13 @@ echo
 echo "========================================"
 echo "    INVENTORY COLLECTION COMPLETE"
 echo "========================================"
+
+
+
+## NOTE ##
+## Running the Script
+
+```bash
+chmod +x system-inventory.sh
+ls -l system-inventory.sh
+./system-inventory.sh
